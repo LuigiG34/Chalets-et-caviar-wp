@@ -1,0 +1,50 @@
+/*
+Theme Name: Neve Child
+Theme URI: https://themeisle.com/themes/neve/
+Template: neve
+Author: ThemeIsle
+Author URI: https://themeisle.com
+Description: Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL &amp; translation ready. Look no further. Neve is the perfect theme for you!
+Tags: blog,custom-logo,e-commerce,rtl-language-support,grid-layout,one-column,two-columns,custom-background,custom-colors,custom-header,custom-menu,featured-image-header,featured-images,flexible-header,full-width-template,sticky-post,theme-options,threaded-comments,translation-ready,accessibility-ready,wide-blocks,block-styles,footer-widgets,portfolio,left-sidebar,right-sidebar
+Version: 3.4.10.1675931963
+Updated: 2023-02-09 09:39:23
+
+*/
+
+footer .component-wrap p {
+	display: none;
+}
+
+.nv-meta-list {
+	display: none;
+}
+.wpcf7-form{
+	padding-top: 50px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+}
+
+.wpcf7-submit{
+	width: 100%;
+}
+
+.wpcf7-form input, .wpcf7-form textarea{
+	width: 100%;
+}
+
+.wpcf7-submit {
+	color: var(--nv-site-bg)!important;
+	background-color: var(--nv-dark-bg)!important;
+}
+
+.wp-block-button a:hover{
+	background-color: var(--nv-dark-bg)!important;
+	color: var(--nv-site-bg)!important;
+}
+
+.grecaptcha-badge{
+	z-index: 9999;
+}
