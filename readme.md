@@ -1,3 +1,10 @@
+### Projet 2 - Chalets et caviar (Openclassrooms)
+
+J'ai créé des custom type posts pour ce projet : Chalets à vendre et Chalets à louer.
+
+C'est custom type posts on des champs ACF pour les caractéristiques (prix, surface, salles de bain, ...)
+
+```
 Bravo ! Vous venez de vous lancer en tant que développeur freelance et vous avez décroché votre premier contrat.
 
 
@@ -10,7 +17,7 @@ Cependant, elle ne possède pas encore de site web pour promouvoir la vente et l
 
 
 Lors d’une première réunion, vous rencontrez Marie, la directrice de l’agence.  Voici l’échange de mails que vous recevez suite à cette réunion.
-
+```
 
 ```
 De : Marie D.
