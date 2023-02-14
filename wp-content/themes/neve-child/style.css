@@ -48,3 +48,7 @@ footer .component-wrap p {
 .grecaptcha-badge{
 	z-index: 9999;
 }
+
+span.required-input{
+	color: red;
+}
