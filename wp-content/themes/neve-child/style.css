@@ -45,6 +45,10 @@ footer .component-wrap p {
 	color: var(--nv-site-bg)!important;
 }
 
+body.home .grecaptcha-badge{
+	display: none;
+}
+
 .grecaptcha-badge{
 	z-index: 9999;
 }
